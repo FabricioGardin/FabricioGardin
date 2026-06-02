@@ -12,7 +12,7 @@ Building solutions that connect technology, data, and real-world needs.
 
 ## 👨‍💻 About Me
 
-I am a Software Developer with experience in frontend, backend, mobile development, and databases.
+I'm a Software Developer with experience in frontend, backend, mobile development, databases, and  IT Infrastructure.
 
 My background includes developing applications using Java, JavaScript, Kotlin, React, Node.js, SQL Server, and MongoDB, with a strong interest in software engineering, cloud technologies, and data-driven solutions.
 
