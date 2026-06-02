@@ -2,7 +2,7 @@
 
 # Hi, I'm Fabricio Gardin 👋
 
-### Software Developer | Java | JavaScript | React | Node.js | Kotlin | Android
+### Software Developer | Java | JavaScript | React | Node.js | Kotlin | Android | IT Infrastructure
 
 Building solutions that connect technology, data, and real-world needs.
 
@@ -73,6 +73,28 @@ Currently, I am focused on:
 
 ---
 
+### 🏗️ IT Infrastructure & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-00599C?style=for-the-badge)
+![Switching](https://img.shields.io/badge/Switching-34A853?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6F00?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-0F9D58?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-8E24AA?style=for-the-badge)
+
+![VoIP](https://img.shields.io/badge/VoIP-00ACC1?style=for-the-badge)
+![IP_Telephony](https://img.shields.io/badge/IP_Telephony-546E7A?style=for-the-badge)
+
+---
+
 ### 🛠️ Development Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -83,6 +105,7 @@ Currently, I am focused on:
 ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
